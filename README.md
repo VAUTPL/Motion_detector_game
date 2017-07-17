@@ -1,4 +1,4 @@
-# Motion_detector_game
+# Motion_detection_game
 Game based on artificial vision applying motion detection..
 
 This game is a project using Python and Open CV. The code is free to be used and modified by anyone wishing to do it. This game was designed for kids with the purpose of improve the motor skills.
